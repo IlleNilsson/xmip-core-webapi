@@ -1,10 +1,10 @@
 [package]
-name = "xmip-template"
+name = "xmip-core-webapi"
 version = "0.1.0"
 edition = "2024"
 license = "AGPL-3.0-or-later"
-repository = "https://github.com/IlleNilsson/xmip-template"
-description = "Starter template for a Rust-based Xmip component repository."
+repository = "https://github.com/IlleNilsson/xmip-core-webapi"
+description = "Deprecated migration marker; use xmip-core-logic-http-api over xmip-core-transport-http."
 publish = false
 
 [lib]
